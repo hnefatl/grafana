@@ -1155,7 +1155,7 @@
                     },
                     "showPoints": "auto",
                     "showValues": false,
-                    "spanNulls": false,
+                    "spanNulls": 60000,
                     "stacking": {
                       "group": "A",
                       "mode": "none"
