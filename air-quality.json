@@ -729,13 +729,13 @@
                     },
                     "showPoints": "auto",
                     "showValues": false,
-                    "spanNulls": false,
+                    "spanNulls": 300000,
                     "stacking": {
                       "group": "A",
                       "mode": "none"
                     },
                     "thresholdsStyle": {
-                      "mode": "off"
+                      "mode": "area"
                     }
                   },
                   "thresholds": {
@@ -747,7 +747,7 @@
                       },
                       {
                         "color": "red",
-                        "value": 80
+                        "value": 12
                       }
                     ]
                   },
@@ -871,13 +871,13 @@
                     },
                     "showPoints": "auto",
                     "showValues": false,
-                    "spanNulls": false,
+                    "spanNulls": 300000,
                     "stacking": {
                       "group": "A",
                       "mode": "none"
                     },
                     "thresholdsStyle": {
-                      "mode": "off"
+                      "mode": "area"
                     }
                   },
                   "thresholds": {
@@ -889,7 +889,7 @@
                       },
                       {
                         "color": "red",
-                        "value": 80
+                        "value": 45
                       }
                     ]
                   },
