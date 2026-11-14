@@ -124,7 +124,7 @@
                     },
                     "showPoints": "auto",
                     "showValues": false,
-                    "spanNulls": 300000,
+                    "spanNulls": 60000,
                     "stacking": {
                       "group": "A",
                       "mode": "none"
@@ -304,7 +304,7 @@
                     },
                     "showPoints": "auto",
                     "showValues": false,
-                    "spanNulls": 300000,
+                    "spanNulls": 60000,
                     "stacking": {
                       "group": "A",
                       "mode": "none"
@@ -445,7 +445,7 @@
                     },
                     "showPoints": "auto",
                     "showValues": false,
-                    "spanNulls": 300000,
+                    "spanNulls": 60000,
                     "stacking": {
                       "group": "A",
                       "mode": "none"
@@ -587,7 +587,7 @@
                     },
                     "showPoints": "auto",
                     "showValues": false,
-                    "spanNulls": 300000,
+                    "spanNulls": 60000,
                     "stacking": {
                       "group": "A",
                       "mode": "none"
@@ -729,7 +729,7 @@
                     },
                     "showPoints": "auto",
                     "showValues": false,
-                    "spanNulls": 300000,
+                    "spanNulls": 60000,
                     "stacking": {
                       "group": "A",
                       "mode": "none"
@@ -871,7 +871,7 @@
                     },
                     "showPoints": "auto",
                     "showValues": false,
-                    "spanNulls": 300000,
+                    "spanNulls": 60000,
                     "stacking": {
                       "group": "A",
                       "mode": "none"
@@ -1013,7 +1013,7 @@
                     },
                     "showPoints": "auto",
                     "showValues": false,
-                    "spanNulls": 300000,
+                    "spanNulls": 60000,
                     "stacking": {
                       "group": "A",
                       "mode": "none"
