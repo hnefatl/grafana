@@ -130,7 +130,7 @@
                       "mode": "none"
                     },
                     "thresholdsStyle": {
-                      "mode": "dashed"
+                      "mode": "area"
                     }
                   },
                   "thresholds": {
@@ -1380,10 +1380,10 @@
         "1d"
       ],
       "fiscalYearStartMonth": 0,
-      "from": "2026-11-14T20:13:00.105Z",
+      "from": "now-1h",
       "hideTimepicker": false,
       "timezone": "browser",
-      "to": "2026-11-14T20:28:00.105Z"
+      "to": "now"
     },
     "title": "Air Quality",
     "variables": []
