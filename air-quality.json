@@ -1252,7 +1252,7 @@
               "layout": {
                 "kind": "AutoGridLayout",
                 "spec": {
-                  "columnWidthMode": "standard",
+                  "columnWidthMode": "narrow",
                   "items": [
                     {
                       "kind": "AutoGridLayoutItem",
