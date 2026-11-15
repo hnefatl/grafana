@@ -618,7 +618,7 @@
                       "mode": "none"
                     },
                     "thresholdsStyle": {
-                      "mode": "off"
+                      "mode": "dashed"
                     }
                   },
                   "thresholds": {
@@ -627,6 +627,14 @@
                       {
                         "color": "green",
                         "value": 0
+                      },
+                      {
+                        "color": "semi-dark-purple",
+                        "value": 65
+                      },
+                      {
+                        "color": "light-purple",
+                        "value": 87
                       }
                     ]
                   },
