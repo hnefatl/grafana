@@ -311,7 +311,7 @@
           }
         }
       },
-      "panel-3": {
+      "panel-4": {
         "kind": "Panel",
         "spec": {
           "data": {
@@ -346,7 +346,7 @@
             }
           },
           "description": "",
-          "id": 3,
+          "id": 4,
           "links": [],
           "title": "Failing Units",
           "vizConfig": {
@@ -392,6 +392,7 @@
                       "mode": "off"
                     }
                   },
+                  "noValue": "No failing units",
                   "thresholds": {
                     "mode": "absolute",
                     "steps": [
@@ -459,7 +460,7 @@
             "spec": {
               "element": {
                 "kind": "ElementReference",
-                "name": "panel-3"
+                "name": "panel-4"
               }
             }
           }
