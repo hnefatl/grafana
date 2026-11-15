@@ -141,16 +141,16 @@
                         "value": 0
                       },
                       {
-                        "color": "green",
+                        "color": "yellow",
                         "value": 1000
                       },
                       {
-                        "color": "#EAB839",
-                        "value": 1500
+                        "color": "orange",
+                        "value": 2000
                       },
                       {
                         "color": "red",
-                        "value": 2000
+                        "value": 5000
                       }
                     ]
                   },
@@ -1380,7 +1380,7 @@
         "1d"
       ],
       "fiscalYearStartMonth": 0,
-      "from": "now-1h",
+      "from": "now-12h",
       "hideTimepicker": false,
       "timezone": "browser",
       "to": "now"
